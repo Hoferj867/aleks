@@ -1,0 +1,11 @@
+C:\Users\Сашок\source\repos\num7\Lab_1number7\obj\Debug\netcoreapp3.0\Lab_1number7.csprojAssemblyReference.cache
+C:\Users\Сашок\source\repos\num7\Lab_1number7\obj\Debug\netcoreapp3.0\Lab_1number7.AssemblyInfoInputs.cache
+C:\Users\Сашок\source\repos\num7\Lab_1number7\obj\Debug\netcoreapp3.0\Lab_1number7.AssemblyInfo.cs
+C:\Users\Сашок\source\repos\num7\Lab_1number7\bin\Debug\netcoreapp3.0\Lab_1number7.exe
+C:\Users\Сашок\source\repos\num7\Lab_1number7\bin\Debug\netcoreapp3.0\Lab_1number7.deps.json
+C:\Users\Сашок\source\repos\num7\Lab_1number7\bin\Debug\netcoreapp3.0\Lab_1number7.runtimeconfig.json
+C:\Users\Сашок\source\repos\num7\Lab_1number7\bin\Debug\netcoreapp3.0\Lab_1number7.runtimeconfig.dev.json
+C:\Users\Сашок\source\repos\num7\Lab_1number7\bin\Debug\netcoreapp3.0\Lab_1number7.dll
+C:\Users\Сашок\source\repos\num7\Lab_1number7\bin\Debug\netcoreapp3.0\Lab_1number7.pdb
+C:\Users\Сашок\source\repos\num7\Lab_1number7\obj\Debug\netcoreapp3.0\Lab_1number7.dll
+C:\Users\Сашок\source\repos\num7\Lab_1number7\obj\Debug\netcoreapp3.0\Lab_1number7.pdb

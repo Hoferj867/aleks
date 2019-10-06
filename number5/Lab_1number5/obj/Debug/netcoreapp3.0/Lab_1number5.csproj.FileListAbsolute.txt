@@ -1,0 +1,11 @@
+C:\Users\Сашок\source\repos\number5\Lab_1number5\bin\Debug\netcoreapp3.0\Lab_1number5.exe
+C:\Users\Сашок\source\repos\number5\Lab_1number5\bin\Debug\netcoreapp3.0\Lab_1number5.deps.json
+C:\Users\Сашок\source\repos\number5\Lab_1number5\bin\Debug\netcoreapp3.0\Lab_1number5.runtimeconfig.json
+C:\Users\Сашок\source\repos\number5\Lab_1number5\bin\Debug\netcoreapp3.0\Lab_1number5.runtimeconfig.dev.json
+C:\Users\Сашок\source\repos\number5\Lab_1number5\bin\Debug\netcoreapp3.0\Lab_1number5.dll
+C:\Users\Сашок\source\repos\number5\Lab_1number5\bin\Debug\netcoreapp3.0\Lab_1number5.pdb
+C:\Users\Сашок\source\repos\number5\Lab_1number5\obj\Debug\netcoreapp3.0\Lab_1number5.csprojAssemblyReference.cache
+C:\Users\Сашок\source\repos\number5\Lab_1number5\obj\Debug\netcoreapp3.0\Lab_1number5.AssemblyInfoInputs.cache
+C:\Users\Сашок\source\repos\number5\Lab_1number5\obj\Debug\netcoreapp3.0\Lab_1number5.AssemblyInfo.cs
+C:\Users\Сашок\source\repos\number5\Lab_1number5\obj\Debug\netcoreapp3.0\Lab_1number5.dll
+C:\Users\Сашок\source\repos\number5\Lab_1number5\obj\Debug\netcoreapp3.0\Lab_1number5.pdb
