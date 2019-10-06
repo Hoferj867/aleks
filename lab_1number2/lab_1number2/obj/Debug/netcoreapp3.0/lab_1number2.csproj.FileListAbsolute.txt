@@ -1,0 +1,11 @@
+C:\Users\Сашок\source\repos\lab_1number2\lab_1number2\bin\Debug\netcoreapp3.0\lab_1number2.exe
+C:\Users\Сашок\source\repos\lab_1number2\lab_1number2\bin\Debug\netcoreapp3.0\lab_1number2.deps.json
+C:\Users\Сашок\source\repos\lab_1number2\lab_1number2\bin\Debug\netcoreapp3.0\lab_1number2.runtimeconfig.json
+C:\Users\Сашок\source\repos\lab_1number2\lab_1number2\bin\Debug\netcoreapp3.0\lab_1number2.runtimeconfig.dev.json
+C:\Users\Сашок\source\repos\lab_1number2\lab_1number2\bin\Debug\netcoreapp3.0\lab_1number2.dll
+C:\Users\Сашок\source\repos\lab_1number2\lab_1number2\bin\Debug\netcoreapp3.0\lab_1number2.pdb
+C:\Users\Сашок\source\repos\lab_1number2\lab_1number2\obj\Debug\netcoreapp3.0\lab_1number2.csprojAssemblyReference.cache
+C:\Users\Сашок\source\repos\lab_1number2\lab_1number2\obj\Debug\netcoreapp3.0\lab_1number2.AssemblyInfoInputs.cache
+C:\Users\Сашок\source\repos\lab_1number2\lab_1number2\obj\Debug\netcoreapp3.0\lab_1number2.AssemblyInfo.cs
+C:\Users\Сашок\source\repos\lab_1number2\lab_1number2\obj\Debug\netcoreapp3.0\lab_1number2.dll
+C:\Users\Сашок\source\repos\lab_1number2\lab_1number2\obj\Debug\netcoreapp3.0\lab_1number2.pdb
